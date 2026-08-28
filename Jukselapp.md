@@ -18,6 +18,7 @@
 |Sverige|Stockholm|
 
 ### Sjekkliste
+*vet ikke koffer ikke sjekklista funke for mæ*
 ```markdown
 - [x] Wake up
 - [x] Went to school

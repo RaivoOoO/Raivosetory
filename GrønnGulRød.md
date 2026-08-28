@@ -64,7 +64,7 @@ Engelsk kort fagtekst.[^foot]
 
 [^foot]: Engelsk er det mest snakte språket i verden.
   
-    This is the second paragraph. It must be indented by four spaces.
-    * You can even include lists
-    * Inside the footnote if it stays indented
+    Det engelske språket har utviklet seg veldig mye over tid og har blitt påvirket av mange andre språk.
+    * Omtrent 2 milliarder folk kan snakke en form av engelsk
+    * Det nærmeste språket til Engelsk er Deutch som er det offisielle språket til Nederland og Belgia.
   
